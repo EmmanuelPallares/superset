@@ -1,5 +1,8 @@
 # Installing Superset with Tailwind on Next.js with TypeScript
 Learn how to install Superset with Tailwind on Next.js with TypeScript
+## Live Demo
+Check out the live demo hosted on vercel
+[Live Demo](https://superset-chi.vercel.app/)
 by following this tutorial on YouTube. You can also check out my blogsite 
 for more tech-related content.
 ## Youtube Video
